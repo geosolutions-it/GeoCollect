@@ -8,8 +8,7 @@ GeoCollect is free and Open Source software, released under the [GPL v3](http://
 License is being developed by [GeoSolutions](http://www.geo-solutions.it/) hence you can talk to us for professional support. Anyway the project is a real Open Source project hence you can contribute to it (see section below).
 
 # Documentation
-
-
+For the documentation please refer to the [GeoCollect Wiki](https://github.com/geosolutions-it/GeoCollect/wiki).
 
 # Contributing
 We welcome contributions in any form:
