@@ -1,0 +1,12 @@
+[submodule "frontend/mapstore"]
+	path = frontend/mapstore
+	url = https://github.com/geosolutions-it/MapStore.git
+[submodule "mobile/mapstoremobile"]
+	path = mobile/mapstoremobile
+	url = https://github.com/geosolutions-it/MapStoreMobile.git
+[submodule "backend/OpenSDI-Manager2"]
+	path = backend/OpenSDI-Manager2
+	url = https://github.com/geosolutions-it/OpenSDI-Manager2.git
+[submodule "backend/geostore"]
+	path = backend/geostore
+	url = https://github.com/geosolutions-it/geostore.git
